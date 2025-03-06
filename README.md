@@ -1,7 +1,7 @@
 # Snake-Game
 A fun 3D-styled Snake Game made with Python and Pygame. It features smooth animations, dynamic color changes, and a wrap-around screen movement for an enhanced experience.
 
-# 🐍 3D Snake Game - Enhanced Edition
+# 🐍 3D Snake Game - Enhanced 
 
 A **3D-styled Snake Game** built with **Python and Pygame**.  
 This game features **smooth animations, dynamic color-changing effects, and wrap-around screen movement** for an enhanced gameplay experience. 
