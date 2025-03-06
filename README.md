@@ -28,10 +28,10 @@ This game features **smooth animations, dynamic color-changing effects, and wrap
 ---
 
 ## 📌 **How to Run**
-### 1️⃣ **Install Python and Pygame**
+### **Install Python and Pygame**
 ```sh
 pip install pygame
-2️⃣ Run the Game
+ or
 python snake_game.py
 or
 python3 snake_game.py
